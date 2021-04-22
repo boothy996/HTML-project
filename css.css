@@ -1,0 +1,102 @@
+body {
+    background-color: #242582;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(255,255,255);
+}
+
+#banner img {
+    border: solid black 4px;
+    border-radius: 8px;
+}
+#banner {
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+}
+#Nav {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    text-decoration:none;
+}
+
+a {
+    text-decoration: none;
+}
+
+#Nav ul {
+    text-decoration: none;
+}
+
+#Nav li{
+    display: inline;
+    background-color:#F64C72;
+    text-align: center;
+    padding: 8px;
+    border: solid black 3px;
+    border-radius: 5px;
+    text-decoration: none;
+    color:white;
+}
+
+
+/* .Drop ul li{
+    text-decoration: none;
+} */
+
+#Nav li:hover {
+    background-color:darkcyan;
+}
+
+
+
+/* .Nav-drop-one {
+    display: none
+}
+
+.Nav-drop-two {
+    display: none
+}
+
+.Nav-drop-three {
+    display: none
+} */
+
+/* #Doom-drop:hover .Nav-drop-one {
+    display:block
+} */
+
+#Contents h1 {
+    text-align: center;
+}
+
+#Contents p {
+    font-size: 20px;
+    /* text-align:center; */
+}
+
+#Contents h2 {
+    text-align: center;
+}
+
+#Contents ul {
+    margin:auto;
+}
+
+/* #fate-desc {
+    text-align: right;
+} */
+
+.row {
+    display: flex;
+    
+}
+
+.column {
+    margin: 0 auto;
+    padding: 10px;
+}
+
+
+
+
